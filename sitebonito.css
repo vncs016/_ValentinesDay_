@@ -1,0 +1,130 @@
+body {
+    font-family: 'press start 2P';
+    flex-direction: column;
+    background-color: black;
+    background-image: url(assets/images/faixagrande.png);
+    background-position: center;
+    color: white;
+    background-attachment: fixed;
+    padding: 30px;
+    justify-content: center;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.subtitle {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    text-indent: 20px;
+}
+
+.police {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.emilly {
+    width: 775px;
+    height: 750px;
+    background-image: url(assets/images/emilly.jpeg);
+    background-size: cover;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+.texto {
+    padding-left: 40px;
+}
+
+.snupe {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    align-items: center;
+}
+
+.snupemov {
+    width: 500px;
+    height: 625px;
+    background-image: url(assets/images/esnupe.png);
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+.coisas {
+    justify-content: center;
+}
+
+.YunLi {
+    width: 625px;
+    height: 625px;
+    background-image: url(assets/images/saiko.png);
+    background-size: cover;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+.desenhozemi {
+    display: flex;
+    padding-top: 55px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.desenho {
+    width: 625px;
+    height: 625px;
+    background-image: url(assets/images/desenho.png);
+    background-size: cover;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+.zeminicius {
+    width: 465px;
+    height: 625px;
+    background-image: url(assets/images/zemi_nicius.jpg);
+    background-size: cover;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+input {
+    width: 110px;
+    height: 30px;
+    font-size: large;
+}
+
+p {
+    font-size: 200px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h1, h2 {
+    display: inline;
+}
+
+p, h4 {
+    display: inline;
+}
+
+.text {
+    display: flex;
+    padding-left: 125px;
+}
+
+.a {
+    text-indent: 850px;
+}
